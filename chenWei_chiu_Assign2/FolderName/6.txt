@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Roger Needham - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Roger_Needham","wgTitle":"Roger Needham","wgCurRevisionId":913491289,"wgRevisionId":913491289,"wgArticleId":17249631,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Use dmy dates from July 2013","Use British English from July 2013","Articles with hCards","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1935 births","2003 deaths",
+"Academics of the University of Cambridge","Alumni of St John's College, Cambridge","British computer scientists","Commanders of the Order of the British Empire","Fellows of the British Computer Society","Fellows of the Royal Society","Fellows of University College, Cambridge","Fellows of Wolfson College, Cambridge","Fellows of the Association for Computing Machinery","Microsoft employees","Deaths from cancer in England","People from Doncaster","People from Sheffield","People from South Cambridgeshire District"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Roger_Needham","wgRelevantArticleId":17249631,
+"wgRequestId":"XYpWcwpAICsAAFGJGFIAAADM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q92873","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles"
+:"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/7/70/Roger_Needham.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Roger_Needham"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Roger_Needham&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Roger_Needham&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Roger_Needham"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Roger_Needham rootpage-Roger_Needham skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Roger Needham</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Roger Needham</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Roger_Needham.jpg" class="image"><img alt="Roger Needham.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/7/70/Roger_Needham.jpg/220px-Roger_Needham.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/7/70/Roger_Needham.jpg 1.5x" data-file-width="225" data-file-height="225" /></a><div>Roger Needham in 1999</div></td></tr><tr><th scope="row">Born</th><td><span style="display:none">(<span class="bday">1935-02-09</span>)</span>9 February 1935<br /><div style="display:inline" class="birthplace"><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a>, England, UK</div></td></tr><tr><th scope="row">Died</th><td>1 March 2003<span style="display:none">(2003-03-01)</span> (aged&#160;68)<br /><div style="display:inline" class="deathplace"><a href="/wiki/Willingham,_Cambridgeshire" title="Willingham, Cambridgeshire">Willingham, Cambridgeshire</a>, England, UK</div></td></tr><tr><th scope="row">Residence</th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr><th scope="row">Nationality</th><td class="category"><a href="/wiki/United_Kingdom" title="United Kingdom">British</a></td></tr><tr><th scope="row">Alma&#160;mater</th><td><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></td></tr><tr><th scope="row">Known&#160;for</th><td><a href="/wiki/Needham%E2%80%93Schroeder_protocol" title="Needham–Schroeder protocol">Needham–Schroeder protocol</a> <br /><a href="/wiki/BAN_logic" class="mw-redirect" title="BAN logic">BAN logic</a><br /><a href="/wiki/Tiny_Encryption_Algorithm" title="Tiny Encryption Algorithm">Tiny Encryption Algorithm</a><br /><a href="/wiki/XTEA" title="XTEA">XTEA</a></td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a></td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/Faraday_Medal" class="mw-redirect" title="Faraday Medal">Faraday Medal</a>  <span style="font-size:85%;">(1998)</span><br /><a href="/wiki/Commander_of_the_Order_of_the_British_Empire" class="mw-redirect" title="Commander of the Order of the British Empire">Commander of the Order of the British Empire</a></td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a><br /><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th><td><a rel="nofollow" class="external text" href="http://www.worldcat.org/oclc/78234905"><i>The application of digital computers to problems of classification and grouping</i></a>&#160;<span style="font-size:97%;">(1962)</span></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th><td><a href="/wiki/David_Wheeler_(computer_scientist)" title="David Wheeler (computer scientist)">David Wheeler</a></td></tr><tr><th scope="row">Doctoral students</th><td><div class="plainlist">
+<ul><li><a href="/wiki/Ross_J._Anderson" title="Ross J. Anderson">Ross J. Anderson</a></li>
+<li><a href="/wiki/Peter_G._Gyarmati" title="Peter G. Gyarmati">Peter G. Gyarmati</a></li>
+<li><a href="/wiki/Andrew_Herbert" title="Andrew Herbert">Andrew Herbert</a></li>
+<li><a href="/wiki/David_L._Tennenhouse" title="David L. Tennenhouse">David L. Tennenhouse</a></li></ul>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Roger Michael Needham</b>, <a href="/wiki/Commander_of_the_Order_of_the_British_Empire" class="mw-redirect" title="Commander of the Order of the British Empire">CBE</a>, <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a>, <a href="/wiki/FREng" class="mw-redirect" title="FREng">FREng</a> (9 February 1935 &#8211; 1 March 2003)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> was a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Roger_Needham_Award"><span class="tocnumber">4</span> <span class="toctext">Roger Needham Award</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#EuroSys_Roger_Needham_PhD_Award"><span class="tocnumber">5</span> <span class="toctext">EuroSys Roger Needham PhD Award</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He attended <a href="/wiki/Doncaster_Grammar_School" class="mw-redirect" title="Doncaster Grammar School">Doncaster Grammar School for Boys</a> in <a href="/wiki/Doncaster" title="Doncaster">Doncaster</a> (then in the <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding</a>).
+</p><p>Needham began his undergraduate studies at <a href="/wiki/St_John%27s_College,_Cambridge" title="St John&#39;s College, Cambridge">St John's College, Cambridge</a> in 1953, graduating with a B.A. in 1956 in mathematics and philosophy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> His <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> thesis was on applications of digital <a href="/wiki/Computer" title="Computer">computers</a> to the automatic classification and retrieval of documents. He worked on a variety of key computing projects in <a href="/wiki/Computer_Security" class="mw-redirect" title="Computer Security">security</a>, <a href="/wiki/Operating_systems" class="mw-redirect" title="Operating systems">operating systems</a>, <a href="/wiki/Computer_architecture" title="Computer architecture">computer architecture</a> (capability systems) and <a href="/wiki/Local_area_network" title="Local area network">local area networks</a>.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among his theoretical contributions is the development of the <a href="/wiki/Burrows-Abadi-Needham_logic" class="mw-redirect" title="Burrows-Abadi-Needham logic">Burrows-Abadi-Needham logic</a> for <a href="/wiki/Authentication" title="Authentication">authentication</a>, generally known as the <a href="/wiki/BAN_logic" class="mw-redirect" title="BAN logic">BAN logic</a>. His <a href="/wiki/Needham%E2%80%93Schroeder" class="mw-redirect" title="Needham–Schroeder">Needham–Schroeder</a> (coinvented with <a href="/wiki/Michael_Schroeder" title="Michael Schroeder">Michael Schroeder</a>) <a href="/wiki/Security_protocol" class="mw-redirect" title="Security protocol">security protocol</a> forms the basis of the <a href="/wiki/Kerberos_(protocol)" title="Kerberos (protocol)">Kerberos</a> <a href="/wiki/Authentication" title="Authentication">authentication</a> and <a href="/wiki/Key_exchange" title="Key exchange">key exchange</a> system. He also codesigned the <a href="/wiki/Tiny_Encryption_Algorithm" title="Tiny Encryption Algorithm">TEA</a> and <a href="/wiki/XTEA" title="XTEA">XTEA</a> <a href="/wiki/Encryption_algorithm" class="mw-redirect" title="Encryption algorithm">encryption algorithms</a>. He pioneered the technique of protecting passwords using a one-way hash function.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-guardian_4-0" class="reference"><a href="#cite_note-guardian-4">&#91;4&#93;</a></sup>
+</p><p>He joined Cambridge's <a href="/wiki/Cambridge_University_Computer_Laboratory" class="mw-redirect" title="Cambridge University Computer Laboratory">Computer Laboratory</a>, then called the Mathematical Laboratory, in 1962, became head of the laboratory in 1980, was made a <a href="/wiki/Professor" title="Professor">professor</a> in 1981 and remained with the laboratory until his retirement in 1995. Needham then set up <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>'s UK-based <a href="/wiki/Microsoft_Research" title="Microsoft Research">Research Laboratory</a> in 1997. He was also one of the founding <a href="/wiki/Fellow" title="Fellow">Fellows</a> of <a href="/wiki/Wolfson_College,_Cambridge" title="Wolfson College, Cambridge">University College</a>, <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a>, which became <a href="/wiki/Wolfson_College,_Cambridge" title="Wolfson College, Cambridge">Wolfson College</a>.
+</p><p>Needham was elected to the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> in 1985, became a fellow of the <a href="/wiki/Royal_Academy_of_Engineering" title="Royal Academy of Engineering">Royal Academy of Engineering</a> in 1993 and received a <a href="/wiki/Commander_of_the_Order_of_the_British_Empire" class="mw-redirect" title="Commander of the Order of the British Empire">CBE</a> for his contributions to <a href="/wiki/Computing" title="Computing">computing</a> in 2001. He also was a longtime and respected member of the <a href="/wiki/International_Association_for_Cryptologic_Research" title="International Association for Cryptologic Research">International Association for Cryptologic Research</a>, the <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a> Technical Committee on Security and Privacy and the <a href="/wiki/University_Grants_Committee_(UK)" class="mw-redirect" title="University Grants Committee (UK)">University Grants Committee</a>. He was made a fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> in 1994.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Needham held honorary doctorate degrees from <a href="/wiki/University_of_Twente" title="University of Twente">University of Twente</a>, <a href="/wiki/Loughborough_University" title="Loughborough University">Loughborough University</a>, and <a href="/wiki/University_of_Kent" title="University of Kent">University of Kent</a>.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Needham married <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a> in 1958. Needham died of cancer in March 2003 at his home in <a href="/wiki/Willingham,_Cambridgeshire" title="Willingham, Cambridgeshire">Willingham, Cambridgeshire</a>.<sup id="cite_ref-seattletimes_peterson_2003_6-0" class="reference"><a href="#cite_note-seattletimes_peterson_2003-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Roger_Needham_Award">Roger Needham Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=4" title="Edit section: Roger Needham Award">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a>, in 2004, established an annual <i><a href="/wiki/Roger_Needham_Award" title="Roger Needham Award">Roger Needham Award</a></i> in Needham's honour.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="EuroSys_Roger_Needham_PhD_Award">EuroSys Roger Needham PhD Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=5" title="Edit section: EuroSys Roger Needham PhD Award">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A separate prize honoring Roger Needham has been established by <a rel="nofollow" class="external text" href="http://www.eurosys.org/">EuroSys</a>, the <a rel="nofollow" class="external text" href="http://www.eurosys.org/awards/needham-award">"EuroSys Roger Needham PhD Award"</a>.  This annual prize awards €2,000 to a PhD student from a European University whose thesis is regarded to be an exceptional, innovative contribution to knowledge in the <a rel="nofollow" class="external text" href="http://tocs.acm.org/">Computer Systems</a> area.  Past winners have been:
+</p>
+<ul><li>2018 Dennis Andriesse (<a href="/wiki/Vrije_Universiteit_Amsterdam" title="Vrije Universiteit Amsterdam">Vrije Universiteit Amsterdam</a>) for his PhD thesis entitled <i><a rel="nofollow" class="external text" href="https://syssec.mistakenot.net/theses/phd-thesis.pdf">Analyzing and Securing Binaries Through Static Disassembly</a></i></li>
+<li>2015 Cristiano Giuffrida (<a href="/wiki/Vrije_Universiteit_Amsterdam" title="Vrije Universiteit Amsterdam">Vrije Universiteit Amsterdam</a>) for his PhD thesis entitled <i><a rel="nofollow" class="external text" href="http://dare.ubvu.vu.nl/handle/1871/52113">Safe and Automatic Live Update</a></i></li>
+<li>2014 Torvald Riegel (<a href="/wiki/Technische_Universitaet_Dresden" class="mw-redirect" title="Technische Universitaet Dresden">Technische Universitaet Dresden</a>), for his thesis <i><a rel="nofollow" class="external text" href="http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-115596">Software Transactional Memory Building Blocks</a></i></li>
+<li>2013 Asia Slowinska (<a href="/wiki/Vrije_Universiteit_Amsterdam" title="Vrije Universiteit Amsterdam">Vrije Universiteit Amsterdam</a>) for her PhD thesis entitled <i><a rel="nofollow" class="external text" href="http://dare.ubvu.vu.nl/handle/1871/35439">Using Information Flow Tracking to Protect Legacy Binaries</a></i></li>
+<li>2012 Derek Murray (<a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>), for his thesis <i><a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~dgm36/thesis-corrected.pdf">A Distributed Execution Engine Supporting Data-Dependent Control Flow</a></i></li>
+<li>2011 Jorrit Herder (<a href="/wiki/Vrije_Universiteit_Amsterdam" title="Vrije Universiteit Amsterdam">Vrije Universiteit Amsterdam</a>) for <i><a rel="nofollow" class="external text" href="http://hdl.handle.net/1871/16055">Building a Dependable Operating System: Fault Tolerance in MINIX 3</a></i></li>
+<li>2010 Willem de Bruijn (<a href="/wiki/Vrije_Universiteit_Amsterdam" title="Vrije Universiteit Amsterdam">Vrije Universiteit Amsterdam</a>) for <i><a rel="nofollow" class="external text" href="http://hdl.handle.net/1871/21639">Adaptive Operating System Design for High Throughput I/O</a></i></li>
+<li>2009 Jacob Gorm Hansen (<a href="/wiki/DIKU" class="mw-redirect" title="DIKU">DIKU</a>) for <i><a rel="nofollow" class="external text" href="http://www.diku.dk/hjemmesider/ansatte/jacobg/thesis.pdf">Virtual Machine Mobility with Self-Migration</a></i></li>
+<li>2008 <a href="/wiki/Adam_Dunkels" title="Adam Dunkels">Adam Dunkels</a> (<a href="/wiki/SICS" class="mw-redirect" title="SICS">SICS</a>) for <i><a rel="nofollow" class="external text" href="http://www.sics.se/~adam/dunkels07programming.pdf">Programming Memory-Constrained Networked Embedded Systems</a></i></li>
+<li>2007 Nick Cook (<a href="/wiki/Newcastle_University" title="Newcastle University">Newcastle University</a>) for <i><a rel="nofollow" class="external text" href="http://homepages.cs.ncl.ac.uk/nick.cook/papers/cook-thesis.pdf">Middleware Support for Non-repudiable Business-to-Business Interactions</a></i></li>
+<li>2006 Oliver Heckmann (<a href="/wiki/TU_Darmstadt" class="mw-redirect" title="TU Darmstadt">TU Darmstadt</a>) for <i><a rel="nofollow" class="external text" href="http://tuprints.ulb.tu-darmstadt.de/epda/000522/heckmann_dissertation.pdf">A System-oriented Approach to Efficiency and Quality of Service for Internet Service Providers</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Andrew_Herbert" title="Andrew Herbert">Andrew Herbert</a></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Wilkes</a> (colleague)</li>
+<li><a href="/wiki/David_Wheeler_(computer_scientist)" title="David Wheeler (computer scientist)">David Wheeler</a> (colleague)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Tony_Hoare" title="Tony Hoare">Hoare, T.</a>; <a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Wilkes, M. V.</a> (2004). "Roger Michael Needham CBE FREng. 9 February 1935 - 1 March 2003: Elected F.R.S. 1985". <i><a href="/wiki/Biographical_Memoirs_of_Fellows_of_the_Royal_Society" title="Biographical Memoirs of Fellows of the Royal Society">Biographical Memoirs of Fellows of the Royal Society</a></i>. <b>50</b>: 183–199. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1098%2Frsbm.2004.0014">10.1098/rsbm.2004.0014</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biographical+Memoirs+of+Fellows+of+the+Royal+Society&amp;rft.atitle=Roger+Michael+Needham+CBE+FREng.+9+February+1935+-+1+March+2003%3A+Elected+F.R.S.+1985&amp;rft.volume=50&amp;rft.pages=183-199&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1098%2Frsbm.2004.0014&amp;rft.aulast=Hoare&amp;rft.aufirst=T.&amp;rft.au=Wilkes%2C+M.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoger+Needham" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Andrew_James_Herbert" class="mw-redirect" title="Andrew James Herbert">Herbert, Andrew James</a>, <a rel="nofollow" class="external text" href="http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-89821?rskey=etYJKy&amp;result=21">"Needham, Roger Michael (1935&#8211;2003)",</a> <i>Oxford Dictionary of National Biography</i>, Oxford University Press, March 2009; online edition, January 2007. Retrieved 27 August 2018 <span style="font-size:0.95em; font-size:90%; color:#555">(subscription required)</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Wilkes, M. V. Time-Sharing Computer Systems. American Elsevier, New York, (1968).</span>
+</li>
+<li id="cite_note-guardian-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-guardian_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Schofield, Jack (10 March 2003). <a rel="nofollow" class="external text" href="https://www.theguardian.com/news/2003/mar/10/guardianobituaries.microsoft">"Roger Needham"</a>. <i>The Guardian</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Roger+Needham&amp;rft.date=2003-03-10&amp;rft.aulast=Schofield&amp;rft.aufirst=Jack&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fnews%2F2003%2Fmar%2F10%2Fguardianobituaries.microsoft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoger+Needham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oldwww.acm.org/announcements/needham_obit.html">"ACM Fellow Roger Needham Dies at 62"</a>. Pressroom. <i>ACM</i>. 7 March 2003.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ACM&amp;rft.atitle=ACM+Fellow+Roger+Needham+Dies+at+62&amp;rft.date=2003-03-07&amp;rft_id=http%3A%2F%2Foldwww.acm.org%2Fannouncements%2Fneedham_obit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoger+Needham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-seattletimes_peterson_2003-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-seattletimes_peterson_2003_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Peterson, Kim (6 March 2003). <a rel="nofollow" class="external text" href="http://community.seattletimes.nwsource.com/archive/?date=20030306&amp;slug=needham06">"Microsoft's Needham dies from cancer"</a>. <i><a href="/wiki/The_Seattle_Times" title="The Seattle Times">The Seattle Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Seattle+Times&amp;rft.atitle=Microsoft%27s+Needham+dies+from+cancer&amp;rft.date=2003-03-06&amp;rft.au=Peterson%2C+Kim&amp;rft_id=http%3A%2F%2Fcommunity.seattletimes.nwsource.com%2Farchive%2F%3Fdate%3D20030306%26slug%3Dneedham06&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoger+Needham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bcs.org/server.php?show=nav.5939">Roger Needham Lecture</a> at the British Computer Society website</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roger_Needham&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=42570">Roger Needham</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/users/ksj/RogerNeedham.html">Information about Roger Needham provided by his wife</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/content/4/29535.html">Obit: Roger Needham</a>, <i>The Register</i>, 2 March 2003</li>
+<li><a rel="nofollow" class="external text" href="https://www.nytimes.com/2003/03/06/obituaries/06NEED.html">Roger Needham, Computer Security Expert, Dies at 68</a>, <i>The New York Times</i>, 6 March 2003</li>
+<li><a rel="nofollow" class="external text" href="http://www.lboro.ac.uk/service/publicity/degree_days/degree_2001/needham.html">Speech presenting Needham with an honorary degree</a>, <a href="/wiki/Loughborough_University" title="Loughborough University">Loughborough University</a>, 13 July 2001</li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92873&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q92873&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q92873" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100153689">81100153689</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/n/RogerNeedham">n/RogerNeedham</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/128947632">128947632</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109996711">0000 0001 0999 6711</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79086064">n79086064</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=42570">42570</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p068040873">068040873</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/081947399">081947399</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/94898447">94898447</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/94898447">94898447</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20190923224403
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.416 seconds
+Real time usage: 0.635 seconds
+Preprocessor visited node count: 2043/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27731/2097152 bytes
+Template argument size: 3845/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13015/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.222/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  580.254      1 -total
+ 56.01%  324.985      1 Template:Infobox_scientist
+ 53.82%  312.281      1 Template:Infobox_person
+ 52.02%  301.837      2 Template:Infobox
+ 31.47%  182.621      5 Template:Br_separated_entries
+ 24.59%  142.696      1 Template:Reflist
+ 21.16%  122.800      1 Template:Birth_date
+ 17.43%  101.141      1 Template:Cite_journal
+  8.71%   50.518      1 Template:Authority_control
+  6.82%   39.546      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17249631-0!canonical and timestamp 20190923224403 and revision id 913491289
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Roger_Needham&amp;oldid=913491289">https://en.wikipedia.org/w/index.php?title=Roger_Needham&amp;oldid=913491289</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1935_births" title="Category:1935 births">1935 births</a></li><li><a href="/wiki/Category:2003_deaths" title="Category:2003 deaths">2003 deaths</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Cambridge" title="Category:Academics of the University of Cambridge">Academics of the University of Cambridge</a></li><li><a href="/wiki/Category:Alumni_of_St_John%27s_College,_Cambridge" title="Category:Alumni of St John&#039;s College, Cambridge">Alumni of St John's College, Cambridge</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Commanders_of_the_Order_of_the_British_Empire" title="Category:Commanders of the Order of the British Empire">Commanders of the Order of the British Empire</a></li><li><a href="/wiki/Category:Fellows_of_the_British_Computer_Society" title="Category:Fellows of the British Computer Society">Fellows of the British Computer Society</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Fellows_of_University_College,_Cambridge" title="Category:Fellows of University College, Cambridge">Fellows of University College, Cambridge</a></li><li><a href="/wiki/Category:Fellows_of_Wolfson_College,_Cambridge" title="Category:Fellows of Wolfson College, Cambridge">Fellows of Wolfson College, Cambridge</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Microsoft_employees" title="Category:Microsoft employees">Microsoft employees</a></li><li><a href="/wiki/Category:Deaths_from_cancer_in_England" title="Category:Deaths from cancer in England">Deaths from cancer in England</a></li><li><a href="/wiki/Category:People_from_Doncaster" title="Category:People from Doncaster">People from Doncaster</a></li><li><a href="/wiki/Category:People_from_Sheffield" title="Category:People from Sheffield">People from Sheffield</a></li><li><a href="/wiki/Category:People_from_South_Cambridgeshire_District" title="Category:People from South Cambridgeshire District">People from South Cambridgeshire District</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2013" title="Category:Use British English from July 2013">Use British English from July 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Roger+Needham" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Roger+Needham" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Roger_Needham" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Roger_Needham" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Roger_Needham">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Roger_Needham&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Roger_Needham&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Roger_Needham" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Roger_Needham" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Roger_Needham&amp;oldid=913491289" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Roger_Needham&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92873" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Roger_Needham&amp;id=913491289" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Roger+Needham">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Roger+Needham&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Roger_Needham&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Roger_Needham" title="Roger Needham – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B1%E0%B5%8B%E0%B4%9C%E0%B5%BC_%E0%B4%A8%E0%B5%80%E0%B4%A7%E0%B4%BE%E0%B4%82" title="റോജർ നീധാം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B4%D1%85%D0%B5%D0%BC,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Нидхем, Роджер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80_%D0%9D%D1%96%D0%B4%D0%B3%D0%B5%D0%BC" title="Роджер Нідгем – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q92873#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 September 2019, at 11:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Roger_Needham&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.635","ppvisitednodes":{"value":2043,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27731,"limit":2097152},"templateargumentsize":{"value":3845,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13015,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  580.254      1 -total"," 56.01%  324.985      1 Template:Infobox_scientist"," 53.82%  312.281      1 Template:Infobox_person"," 52.02%  301.837      2 Template:Infobox"," 31.47%  182.621      5 Template:Br_separated_entries"," 24.59%  142.696      1 Template:Reflist"," 21.16%  122.800      1 Template:Birth_date"," 17.43%  101.141      1 Template:Cite_journal","  8.71%   50.518      1 Template:Authority_control","  6.82%   39.546      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.222","limit":"10.000"},"limitreport-memusage":{"value":4011874,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190923224403","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Roger Needham","url":"https:\/\/en.wikipedia.org\/wiki\/Roger_Needham","sameAs":"http:\/\/www.wikidata.org\/entity\/Q92873","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q92873","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-03T23:29:29Z","dateModified":"2019-09-01T11:46:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/70\/Roger_Needham.jpg","headline":"computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

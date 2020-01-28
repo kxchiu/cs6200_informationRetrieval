@@ -1,0 +1,4 @@
+Maximum size: 1490892 bytes
+Minimum size: 21573 bytes
+Average size: 178580.817 bytes
+Maximum depth reach: 3

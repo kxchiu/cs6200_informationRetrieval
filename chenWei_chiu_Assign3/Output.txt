@@ -1,0 +1,290 @@
+Raw query:	Jones Sarah
+Transformed query:	['Jones', 'Sarah']
+Document: 107	107.txt
+Document content:	Sacha Baron Cohen From Wikipedia the free encyclopedia Jump to navigation Jump to search For the figure skater see Sasha Cohen British stand up comedian writer actor and voice actor This British surn
+Document score:	1.000
+Term score:	Jones: 0.500; Sarah: 0.500; 
+
+Document: 190	190.txt
+Document content:	India From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the Republic of India For other uses see India disambiguation Country in South Asia Republic of Indi
+Document score:	1.000
+Term score:	Jones: 0.500; Sarah: 0.500; 
+
+Document: 452	452.txt
+Document content:	Manchester From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the city of Manchester in England For the larger conurbation see Greater Manchester Built up Ar
+Document score:	1.000
+Term score:	Jones: 0.500; Sarah: 0.500; 
+
+Document: 610	610.txt
+Document content:	Buddhism From Wikipedia the free encyclopedia Jump to navigation Jump to search Buddhadharma redirects here For the magazine see Buddhadharma The Practitioner s Quarterly World religion founded by th
+Document score:	1.000
+Term score:	Jones: 0.500; Sarah: 0.500; 
+
+Document: 181	181.txt
+Document content:	France From Wikipedia the free encyclopedia Jump to navigation Jump to search La France redirects here For other uses of La France see Lafrance For other uses of France see France disambiguation Repu
+Document score:	1.000
+Term score:	Jones: 0.500; Sarah: 0.500; 
+
+
+
+Raw query:	Science John Sarah
+Transformed query:	['Science', 'John', 'Sarah']
+Document: 422	422.txt
+Document content:	West Yorkshire From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the metropolitan county For its former council see West Yorkshire County Council For the hi
+Document score:	1.000
+Term score:	Science: 0.333; John: 0.333; Sarah: 0.333; 
+
+Document: 739	739.txt
+Document content:	BBC Radio 1Xtra From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the digital radio station operated by the BBC For the BBC radio station also known as Radi
+Document score:	1.000
+Term score:	Science: 0.333; John: 0.333; Sarah: 0.333; 
+
+Document: 615	615.txt
+Document content:	Sikhism From Wikipedia the free encyclopedia Jump to navigation Jump to search For the region of India see Sikkim Part of a series on Sikhism Sikh gurus Guru Nanak Guru Angad Guru Amar Das Guru Ram D
+Document score:	0.995
+Term score:	Science: 0.381; John: 0.307; Sarah: 0.307; 
+
+Document: 195	195.txt
+Document content:	Nigeria From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the country For other uses see Nigeria disambiguation For Wikipedia s portal on the country see Po
+Document score:	0.991
+Term score:	Science: 0.336; John: 0.383; Sarah: 0.271; 
+
+Document: 741	741.txt
+Document content:	Hip hop From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the culture in general For the music genre see Hip hop music For other uses see Hip hop disambigua
+Document score:	0.976
+Term score:	Science: 0.377; John: 0.377; Sarah: 0.222; 
+
+
+
+Raw query:	BBC News station
+Transformed query:	['BBC', 'News', 'station']
+Document: 480	480.txt
+Document content:	Slack Roman Fort From Wikipedia the free encyclopedia 160 160 Redirected from Slack Roman fort Jump to navigation Jump to search Slack Roman Fort Location within West Yorkshire General information Ar
+Document score:	1.000
+Term score:	BBC: 0.333; News: 0.333; station: 0.333; 
+
+Document: 451	451.txt
+Document content:	Leeds From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the city in England For other uses see Leeds disambiguation See also Culture of Europe Not to be con
+Document score:	0.999
+Term score:	BBC: 0.345; News: 0.316; station: 0.338; 
+
+Document: 942	942.txt
+Document content:	Keighley From Wikipedia the free encyclopedia Jump to navigation Jump to search For other uses see Keighley disambiguation Keighley A view over Keighley Keighley Location within West Yorkshire Popula
+Document score:	0.999
+Term score:	BBC: 0.314; News: 0.351; station: 0.334; 
+
+Document: 636	636.txt
+Document content:	M1 motorway From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the M1 motorway in England For other M1 motorways see List of M1 roads M1 London Yorkshire Mot
+Document score:	0.997
+Term score:	BBC: 0.355; News: 0.343; station: 0.300; 
+
+Document: 452	452.txt
+Document content:	Manchester From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the city of Manchester in England For the larger conurbation see Greater Manchester Built up Ar
+Document score:	0.997
+Term score:	BBC: 0.350; News: 0.348; station: 0.299; 
+
+
+
+Raw query:	India computer science engineering
+Transformed query:	['India', 'computer', 'science', 'engineering']
+Document: 430	430.txt
+Document content:	England From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the country For other uses see England disambiguation Country in north west Europe part of the Uni
+Document score:	0.985
+Term score:	India: 0.283; computer: 0.172; science: 0.265; engineering: 0.265; 
+
+Document: 367	367.txt
+Document content:	Academic degree From Wikipedia the free encyclopedia Jump to navigation Jump to search Not to be confused with Academic ranks This article has multiple issues Please help improve it or discuss these 
+Document score:	0.976
+Term score:	India: 0.207; computer: 0.182; science: 0.267; engineering: 0.321; 
+
+Document: 141	141.txt
+Document content:	Immigration From Wikipedia the free encyclopedia Jump to navigation Jump to search Movement of people into another country or region to which they are not native Not to be confused with Emigration or
+Document score:	0.972
+Term score:	India: 0.314; computer: 0.254; science: 0.254; engineering: 0.150; 
+
+Document: 522	522.txt
+Document content:	Metalworking From Wikipedia the free encyclopedia Jump to navigation Jump to search Turning a bar of metal on a lathe Metalworking is the process of working with metals to create individual parts ass
+Document score:	0.969
+Term score:	India: 0.206; computer: 0.350; science: 0.206; engineering: 0.206; 
+
+Document: 8	8.txt
+Document content:	Thesis From Wikipedia the free encyclopedia This is the latest accepted revision reviewed on 25 September 2019 Jump to navigation Jump to search For other uses see Thesis disambiguation Dissertation 
+Document score:	0.961
+Term score:	India: 0.338; computer: 0.142; science: 0.240; engineering: 0.240; 
+
+
+
+Raw query:	information retrieval
+Transformed query:	['information', 'retrieval']
+Document: 33	33.txt
+Document content:	Microsoft Research From Wikipedia the free encyclopedia Jump to navigation Jump to search research division of Microsoft This article relies too much on references to primary sources Please improve t
+Document score:	1.000
+Term score:	information: 0.500; retrieval: 0.500; 
+
+Document: 6	6.txt
+Document content:	Roger Needham From Wikipedia the free encyclopedia Jump to navigation Jump to search Roger Needham Roger Needham in 1999 Born 1935 02 09 9 February 1935 Sheffield England UK Died 1 March 2003 2003 03
+Document score:	1.000
+Term score:	information: 0.500; retrieval: 0.500; 
+
+Document: 18	18.txt
+Document content:	Information retrieval From Wikipedia the free encyclopedia Jump to navigation Jump to search Information retrieval IR is the activity of obtaining information system resources that are relevant to an
+Document score:	1.000
+Term score:	information: 0.491; retrieval: 0.509; 
+
+Document: 28	28.txt
+Document content:	Gerard Salton Award From Wikipedia the free encyclopedia Jump to navigation Jump to search The Gerard Salton Award is presented by the Association for Computing Machinery ACM Special Interest Group o
+Document score:	1.000
+Term score:	information: 0.509; retrieval: 0.491; 
+
+Document: 46	46.txt
+Document content:	Special Interest Group on Information Retrieval From Wikipedia the free encyclopedia Jump to navigation Jump to search ACM Special Interest Group on Information Retrieval Parent organization Associat
+Document score:	1.000
+Term score:	information: 0.509; retrieval: 0.491; 
+
+
+
+Raw query:	math number
+Transformed query:	['math', 'number']
+Document: 182	182.txt
+Document content:	Dash From Wikipedia the free encyclopedia Jump to navigation Jump to search Not to be confused with hyphen or minus sign For other uses see Dash disambiguation Punctuation mark This article contains 
+Document score:	0.960
+Term score:	math: 0.341; number: 0.620; 
+
+Document: 141	141.txt
+Document content:	Immigration From Wikipedia the free encyclopedia Jump to navigation Jump to search Movement of people into another country or region to which they are not native Not to be confused with Emigration or
+Document score:	0.948
+Term score:	math: 0.315; number: 0.633; 
+
+Document: 918	918.txt
+Document content:	Encyclopædia Britannica From Wikipedia the free encyclopedia 160 160 Redirected from Encyclopaedia Britannica This is the latest accepted revision reviewed on 24 September 2019 Jump to navigation Jum
+Document score:	0.925
+Term score:	math: 0.273; number: 0.652; 
+
+Document: 140	140.txt
+Document content:	German language From Wikipedia the free encyclopedia Jump to navigation Jump to search West Germanic language For other uses see Deutsch disambiguation and German disambiguation Not to be confused wi
+Document score:	0.858
+Term score:	math: 0.172; number: 0.686; 
+
+Document: 413	413.txt
+Document content:	Glossary of chess From Wikipedia the free encyclopedia 160 160 Redirected from File chess Jump to navigation Jump to search See also Glossary of chess problems Index of chess articles Outline of ches
+Document score:	0.850
+Term score:	math: 0.162; number: 0.688; 
+
+
+
+Raw query:	automatic text
+Transformed query:	['automatic', 'text']
+Document: 713	713.txt
+Document content:	Herbert Chapman From Wikipedia the free encyclopedia Jump to navigation Jump to search Herbert Chapman Personal information Full name Herbert Chapman Date of birth 1878 01 19 19 January 1878 91 1 93 
+Document score:	1.000
+Term score:	automatic: 0.500; text: 0.500; 
+
+Document: 366	366.txt
+Document content:	Post nominal letters From Wikipedia the free encyclopedia Jump to navigation Jump to search Postnominal redirects here For adjectives that follow their noun see Postnominal adjective Post nominal let
+Document score:	1.000
+Term score:	automatic: 0.500; text: 0.500; 
+
+Document: 433	433.txt
+Document content:	Postcodes in the United Kingdom From Wikipedia the free encyclopedia Jump to navigation Jump to search Map of postcode areas in the United Kingdom and Crown dependencies with links to each postcode a
+Document score:	1.000
+Term score:	automatic: 0.500; text: 0.500; 
+
+Document: 974	974.txt
+Document content:	MusicBrainz From Wikipedia the free encyclopedia Jump to navigation Jump to search Online music metadata database MusicBrainz The MusicBrainz homepage Type of site Online music encyclopedia 91 1 93 A
+Document score:	1.000
+Term score:	automatic: 0.500; text: 0.500; 
+
+Document: 521	521.txt
+Document content:	Transformer From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about the electrical device For the media and toy franchise see Transformers For other uses see Tran
+Document score:	0.968
+Term score:	automatic: 0.609; text: 0.360; 
+
+
+
+Raw query:	ranking parameter methodology
+Transformed query:	['ranking', 'parameter', 'methodology']
+Document: 70	70.txt
+Document content:	Wikipedia From Wikipedia the free encyclopedia Jump to navigation Jump to search This article is about this online encyclopedia itself For Wikipedia s home page see Main Page For Wikipedia s visitor 
+Document score:	0.962
+Term score:	ranking: 0.340; parameter: 0.421; methodology: 0.201; 
+
+Document: 13	13.txt
+Document content:	The New York Times From Wikipedia the free encyclopedia Jump to navigation Jump to search Not to be confused with The Times NYT redirects here For other uses see NYT disambiguation Daily broadsheet n
+Document score:	0.816
+Term score:	ranking: 0.408; parameter: 0.408; methodology: 0.000; 
+
+Document: 149	149.txt
+Document content:	Micheline Calmy Rey From Wikipedia the free encyclopedia Jump to navigation Jump to search Micheline Calmy Rey President of Switzerland In office 1 January 2011 160 32 31 December 2011 Vice President
+Document score:	0.816
+Term score:	ranking: 0.408; parameter: 0.408; methodology: 0.000; 
+
+Document: 827	827.txt
+Document content:	Bernard Montgomery From Wikipedia the free encyclopedia 160 160 Redirected from Bernard Montgomery 1st Viscount Montgomery of Alamein Jump to navigation Jump to search General Montgomery redirects he
+Document score:	0.816
+Term score:	ranking: 0.408; parameter: 0.408; methodology: 0.000; 
+
+Document: 854	854.txt
+Document content:	Sheffield Wednesday F C From Wikipedia the free encyclopedia Jump to navigation Jump to search Association football club Sheffield Wednesday Full name Sheffield Wednesday Football Club Nickname s The
+Document score:	0.816
+Term score:	ranking: 0.408; parameter: 0.408; methodology: 0.000; 
+
+
+
+Raw query:	document frequency term
+Transformed query:	['document', 'frequency', 'term']
+Document: 303	303.txt
+Document content:	Japanese name From Wikipedia the free encyclopedia Jump to navigation Jump to search Naming customs of Japanese culture Not to be confused with Names of Japan Yamada Tarō 山田太郎 a Japanese placeholder 
+Document score:	1.000
+Term score:	document: 0.333; frequency: 0.333; term: 0.333; 
+
+Document: 11	11.txt
+Document content:	tf idf From Wikipedia the free encyclopedia Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inverse document frequency is a numerical statistic tha
+Document score:	1.000
+Term score:	document: 0.339; frequency: 0.330; term: 0.331; 
+
+Document: 20	20.txt
+Document content:	tf idf From Wikipedia the free encyclopedia 160 160 Redirected from Tf idf Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inverse document frequen
+Document score:	1.000
+Term score:	document: 0.339; frequency: 0.330; term: 0.331; 
+
+Document: 19	19.txt
+Document content:	tf idf From Wikipedia the free encyclopedia 160 160 Redirected from Inverse document frequency Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inve
+Document score:	1.000
+Term score:	document: 0.339; frequency: 0.330; term: 0.330; 
+
+Document: 1	1.txt
+Document content:	Karen Spärck Jones From Wikipedia the free encyclopedia Jump to navigation Jump to search This British surname is barrelled being made up of multiple names It should be written as Spärck Jones not Jo
+Document score:	0.995
+Term score:	document: 0.381; frequency: 0.307; term: 0.307; 
+
+
+
+Raw query:	weighting factor
+Transformed query:	['weighting', 'factor']
+Document: 103	103.txt
+Document content:	B H Liddell Hart From Wikipedia the free encyclopedia Jump to navigation Jump to search This British surname is barrelled being made up of multiple names It should be written as Liddell Hart not Hart
+Document score:	1.000
+Term score:	weighting: 0.500; factor: 0.500; 
+
+Document: 11	11.txt
+Document content:	tf idf From Wikipedia the free encyclopedia Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inverse document frequency is a numerical statistic tha
+Document score:	0.937
+Term score:	weighting: 0.643; factor: 0.294; 
+
+Document: 19	19.txt
+Document content:	tf idf From Wikipedia the free encyclopedia 160 160 Redirected from Inverse document frequency Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inve
+Document score:	0.937
+Term score:	weighting: 0.643; factor: 0.294; 
+
+Document: 20	20.txt
+Document content:	tf idf From Wikipedia the free encyclopedia 160 160 Redirected from Tf idf Jump to navigation Jump to search In information retrieval tf idf or TFIDF short for term frequency inverse document frequen
+Document score:	0.937
+Term score:	weighting: 0.643; factor: 0.294; 
+
+Document: 1	1.txt
+Document content:	Karen Spärck Jones From Wikipedia the free encyclopedia Jump to navigation Jump to search This British surname is barrelled being made up of multiple names It should be written as Spärck Jones not Jo
+Document score:	0.707
+Term score:	weighting: 0.707; factor: 0.000; 
+
+
+

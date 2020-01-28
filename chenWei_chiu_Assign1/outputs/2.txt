@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Double-barrelled name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Double-barrelled_name","wgTitle":"Double-barrelled name","wgCurRevisionId":916463131,"wgRevisionId":916463131,"wgArticleId":771980,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Articles needing additional references from May 2009","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from October 2018","Articles containing German-language text","Articles with unsourced statements from May 2009","Articles containing Polish-language text","Wikipedia articles needing clarification from July 2015","Articles containing French-language text","Articles with unsourced statements from July 2015","Surname"],"wgBreakFrames":!1,
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Double-barrelled_name","wgRelevantArticleId":771980,"wgRequestId":"XYojnApAMFwAAEgui@YAAAAP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q29042997","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Double-barrelled_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Double-barrelled_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Double-barrelled_name&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Double-barrelled_name"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Double-barrelled_name rootpage-Double-barrelled_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Double-barrelled name</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Family name that is a combination of two other family names</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Compound_surname" class="mw-redirect" title="Compound surname">Compound surname</a></div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Double-barrelled_name&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Double-barrelled+name%22">"Double-barrelled name"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Double-barrelled+name%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Double-barrelled+name%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Double-barrelled+name%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Double-barrelled+name%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Double-barrelled+name%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">May 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In the  <a href="/wiki/Western_culture" title="Western culture">Western</a> tradition of <a href="/wiki/Surname" title="Surname">surnames</a>, there are several types of <b>double surname</b> (also <b>double-barrelled surname</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>). If the two names are joined with a <a href="/wiki/Hyphen" title="Hyphen">hyphen</a>, it may also be called a <b>hyphenated surname</b>.
+</p>
+<ul><li>In <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> tradition, a double surname is heritable, and mostly taken in order to preserve a family name which would have become extinct due to the absence of male descendants bearing the name, connected to the inheritance of a family estate.  Examples include <a href="/wiki/Rolls_family" title="Rolls family">Harding-Rolls</a> and <a href="/wiki/Drayton_House" title="Drayton House">Stopford Sackville</a>.</li>
+<li>In <a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Hispanic tradition</a>, double surnames are the norm, and not an indication of social status. A person will take the (first) surname of their father, followed by the (first) surname of their mother (i.e. their maternal grandfather's surname). The double surname itself is not heritable. These names are combined without hyphen (but optionally combined using <i>y</i> "and"). In addition to this, there are heritable double surnames (<i>apellidos compuestos</i>) which are mostly but not always combined with a hyphen.</li>
+<li>In <a href="/wiki/German_name" title="German name">German tradition</a>, double surnames are taken upon marriage, written with or without hyphen, combining the husband's surname with the wife's (more recently the sequence has become optional under some legislations). These double surnames are "alliance names" (<i>Allianznamen</i>) and as such not heritable.</li></ul>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#British_tradition"><span class="tocnumber">1</span> <span class="toctext">British tradition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Iberian_tradition"><span class="tocnumber">2</span> <span class="toctext">Iberian tradition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Continental_Germanic_tradition"><span class="tocnumber">3</span> <span class="toctext">Continental Germanic tradition</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Scandinavia"><span class="tocnumber">4</span> <span class="toctext">Scandinavia</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Poland"><span class="tocnumber">5</span> <span class="toctext">Poland</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Russia"><span class="tocnumber">6</span> <span class="toctext">Russia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Turkish_tradition"><span class="tocnumber">7</span> <span class="toctext">Turkish tradition</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#French-Canadian_tradition"><span class="tocnumber">8</span> <span class="toctext">French-Canadian tradition</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Recent_developments"><span class="tocnumber">9</span> <span class="toctext">Recent developments</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Non-Western_surname_traditions"><span class="tocnumber">10</span> <span class="toctext">Non-Western surname traditions</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="British_tradition">British tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=1" title="Edit section: British tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/English_surname" class="mw-redirect" title="English surname">English surname</a>, <a href="/wiki/Scottish_surname" class="mw-redirect" title="Scottish surname">Scottish surname</a>, and <a href="/wiki/Name_change#Historical_usage" title="Name change">Name change §&#160;Historical usage</a></div>
+<p>A few British upper-class families have "triple-barrelled" surnames (e.g. <a href="/wiki/Anstruther-Gough-Calthorpe_baronets" title="Anstruther-Gough-Calthorpe baronets">Anstruther-Gough-Calthorpe</a>; <a href="/wiki/Cave-Browne-Cave_baronets" title="Cave-Browne-Cave baronets">Cave-Browne-Cave</a>; <a href="/wiki/Earl_of_Minto" title="Earl of Minto">Elliot-Murray-Kynynmound</a>; <a href="/wiki/Baron_Willoughby_de_Eresby" title="Baron Willoughby de Eresby">Heathcote-Drummond-Willoughby</a>; <a href="/wiki/Thomas_Algernon_Smith-Dorrien-Smith" title="Thomas Algernon Smith-Dorrien-Smith">Smith-Dorrien-Smith</a>; <a href="/wiki/Marquess_of_Londonderry" title="Marquess of Londonderry">Vane-Tempest-Stewart</a>). Not all of those with multiple names were <a href="/wiki/British_peerage" class="mw-redirect" title="British peerage">of the peerage</a>; <a href="/wiki/Landed_gentry" title="Landed gentry">landed gentry</a> such as <a href="/wiki/George_Henry_Lane-Fox_Pitt-Rivers" class="mw-redirect" title="George Henry Lane-Fox Pitt-Rivers">George Henry Lane-Fox Pitt-Rivers</a> consolidated the estates and wealth of several families in their multiple names. These are sometimes created when one spouse has a double-barrelled name and the other has a single surname. Nowadays, such names are almost always abbreviated in everyday use to a single or double-barrelled version. For example, actress Isabella Anstruther-Gough-Calthorpe goes by <a href="/wiki/Isabella_Calthorpe" title="Isabella Calthorpe">Isabella Calthorpe</a> and her half-sister Gabriella Anstruther-Gough-Calthorpe is known by her stage name <a href="/wiki/Gabriella_Wilde" title="Gabriella Wilde">Gabriella Wilde</a>.
+</p><p>There are even a few "quadruple-barrelled" surnames (e.g. <a href="/wiki/Baron_Clinton" title="Baron Clinton">Hepburn-Stuart-Forbes-Trefusis</a>, <a href="/wiki/Baron_Thurlow" title="Baron Thurlow">Hovell-Thurlow-Cumming-Bruce</a>, <a href="/wiki/Earl_of_Wharncliffe" title="Earl of Wharncliffe">Montagu-Stuart-Wortley-Mackenzie</a>, <a href="/wiki/Plunkett-Ernle-Erle-Drax" title="Plunkett-Ernle-Erle-Drax">Plunkett-Ernle-Erle-Drax</a> and Stirling-Home-Drummond-Moray). The surname of the extinct family of the <a href="/wiki/Duke_of_Buckingham_and_Chandos" class="mw-redirect" title="Duke of Buckingham and Chandos">Dukes of Buckingham and Chandos</a> was the quintuple-barrelled Temple-Nugent-Brydges-Chandos-Grenville.
+</p><p><a href="/wiki/Captain_(OF-2)" class="mw-redirect" title="Captain (OF-2)">Captain</a> <a href="/wiki/Leone_Sextus_Tollemache" title="Leone Sextus Tollemache">Leone Sextus Denys Oswolf Fraudatifilius Tollemache-Tollemache de Orellana Plantagenet Tollemache-Tollemache</a> is sometimes quoted as the man with the most ever "barrels" in his surname (six), but in fact all but the last two of these (Tollemache-Tollemache) were forenames.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>Many double-barrelled names are written without a hyphen, which can cause confusion as to whether the surname is double-barrelled or not. Notable persons with unhyphenated double-barrelled names include prime minister <a href="/wiki/David_Lloyd_George" title="David Lloyd George">David Lloyd George</a>, the composer <a href="/wiki/Ralph_Vaughan_Williams" title="Ralph Vaughan Williams">Ralph Vaughan Williams</a>, historian <a href="/wiki/B._H._Liddell_Hart" title="B. H. Liddell Hart">Basil Liddell Hart</a>, astronomer <a href="/wiki/Robert_Hanbury_Brown" title="Robert Hanbury Brown">Robert Hanbury Brown</a>, actresses <a href="/wiki/Kristin_Scott_Thomas" title="Kristin Scott Thomas">Kristin Scott Thomas</a> and <a href="/wiki/Helena_Bonham_Carter" title="Helena Bonham Carter">Helena Bonham Carter</a> (although she has said the hyphen is optional),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> comedian <a href="/wiki/Sacha_Baron_Cohen" title="Sacha Baron Cohen">Sacha Baron Cohen</a> (however, his cousin <a href="/wiki/Simon_Baron-Cohen" title="Simon Baron-Cohen">Simon Baron-Cohen</a> opted for the hyphen) and <a href="/wiki/Sylvia_Llewelyn_Davies" title="Sylvia Llewelyn Davies">Sylvia Llewelyn Davies</a>.
+</p>
+<h2><span class="mw-headline" id="Iberian_tradition">Iberian tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=2" title="Edit section: Iberian tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Iberian_naming_customs" title="Iberian naming customs">Iberian naming customs</a>, <a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish naming customs</a>, <a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese name</a>, and <a href="/wiki/Hispanic_American_naming_customs" class="mw-redirect" title="Hispanic American naming customs">Hispanic American naming customs</a></div>
+<p>When a person is born, the custom is for them to take the first surname of the father and then the first surname of the mother. Thus, when D. <a href="/wiki/Julio_Iglesias" title="Julio Iglesias">Julio Iglesias de la Cueva</a> and Dª <a href="/wiki/Isabel_Preysler" title="Isabel Preysler">Isabel Preysler Arrastía</a> had a son called Enrique, he legally was <a href="/wiki/Enrique_Iglesias" title="Enrique Iglesias">Enrique Iglesias Preysler</a>. Where the optional conjunction <i>y</i> (and) is used, the example would become "Enrique Iglesias y Preysler" (never used in the case of Enrique Iglesias; see for example <a href="/wiki/Jos%C3%A9_Ortega_y_Gasset" title="José Ortega y Gasset">José Ortega y Gasset</a>). On the other hand, actual double-barrelled names exist (called <i>apellidos compuestos</i>), such as García-Huidobro, Cruz-Coke. For example, <a href="/wiki/Luciano_Cruz-Coke" title="Luciano Cruz-Coke">Luciano Cruz-Coke Carvallo</a> is the son of Mr. Carlos Cruz-Coke Ossa and Ms. Lucía Carvallo Arriagada. In every day use Mr. Cruz-Coke Carvallo is Mr. Cruz-Coke, never Mr. Cruz.  Such names usually reflect the same case as in Anglo-Saxon tradition: the survival of a family name that would be lost without this practice.   
+Another common case is to find double-barrelled names with the use of the conjunction "de" (of).  In Iberian tradition this commonly indicates a <a href="/wiki/Toponymic_surname" title="Toponymic surname">toponymic surname</a> or a noble family name. 
+Toponymic family such as the surnames García De las Heras, Pérez de Arce or the very common Ortiz de Zárate combine a regular family name with the place that family resides.   For example, the "Ortiz" resides in the Basque town of <a href="/w/index.php?title=Zarate,_Spain&amp;action=edit&amp;redlink=1" class="new" title="Zarate, Spain (page does not exist)">Zarate</a>, in <a href="/wiki/Basque_Country_(autonomous_community)" title="Basque Country (autonomous community)">Basque Country</a>.  
+The least common double-barreled names that use the particle "de" are the nobiliary ones, such as the  <a href="/w/index.php?title=%C3%81lvarez_de_Toledo&amp;action=edit&amp;redlink=1" class="new" title="Álvarez de Toledo (page does not exist)">Álvarez de Toledo</a>, <a href="/w/index.php?title=Ram%C3%ADrez_de_Arellano&amp;action=edit&amp;redlink=1" class="new" title="Ramírez de Arellano (page does not exist)">Ramírez de Arellano</a> or <a href="/wiki/Fern%C3%A1ndez_de_C%C3%B3rdoba" class="mw-redirect" title="Fernández de Córdoba">Fernández de Córdoba</a>.  In these cases, the first surname indicates the original name of the family, whereas the second surname denotes the nobiliary feud of that family.  In this case, the conjunction "de" (of) reflects that the family used to be the feudal lords of that place.  Thus, the Ramírez were the lords of the village of Arellano, in <a href="/wiki/Navarra" class="mw-redirect" title="Navarra">Navarra</a>.
+</p><p><a href="/wiki/%C3%81lava" title="Álava">Álava</a>, Spain is notorious for its incidence of true compound surnames, known as "apellido compuesto alavés" (Álava compound surname).  Unlike other true compound surnames, which resulted from the merging of a previously paternal and maternal surname, the Álava compound surname is characterized for having the first portion of the surname as a patronymic, normally a Spanish patronymic (i.e. from the <a href="/wiki/Castilian_language" class="mw-redirect" title="Castilian language">Castilian language</a>) or more unusually a <a href="/wiki/Basque_language" title="Basque language">Basque language</a> patronymic (such as “<a href="/wiki/Ochoa" title="Ochoa">Ochoa</a>”), followed by the <a href="/wiki/Preposition" class="mw-redirect" title="Preposition">preposition</a> "de", with the second part of the surname being a local toponymic surname from Álava. While this form of compound surname can be found in other regions of Spain, albeit scarcely, it is only in Álava that it has persisted. These type of customary compound surnames used to be found throughout <a href="/wiki/Guip%C3%BAzcoa" class="mw-redirect" title="Guipúzcoa">Guipúzcoa</a>, <a href="/wiki/Navarra" class="mw-redirect" title="Navarra">Navarra</a>, <a href="/wiki/Soria" title="Soria">Soria</a>, <a href="/wiki/Logro%C3%B1o" title="Logroño">Logroño</a>, and most of <a href="/wiki/Green_Spain" title="Green Spain">Green Spain</a> generally (i.e. the Spanish northern maritime façade exposed to the Atlantic Ocean which runs along the coastal strip lying north of the Cantabrian and Basque mountains, along the Bay of Biscay.)
+</p><p>In <a href="/wiki/Portugal" title="Portugal">Portugal</a>, where most of the population have two to four surnames (<i>apelidos de família</i>), the practice of using a double combination of surnames is very common. The person can either use a paternal and a maternal surname combined (<a href="/wiki/An%C3%ADbal_Cavaco_Silva" title="Aníbal Cavaco Silva">Aníbal Cavaco Silva</a>) or use a double last name that has been passed down through one of the parents (<a href="/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes">António Lobo Antunes</a>). The last surname (normally the paternal one) is usually considered the "most important", but people may choose to use another one, often favouring the more sonant or less common of their surnames in their daily or professional life (such as <a href="/wiki/Manuel_Alegre" title="Manuel Alegre">Manuel Alegre</a> or <a href="/wiki/Jos%C3%A9_Manuel_Barroso" title="José Manuel Barroso">José Manuel Barroso</a>, who is known in Portugal by his double surname Durão Barroso). The use of more than two surnames in public life is less common, but not unusual (see <a href="/wiki/Sophia_de_Mello_Breyner_Andresen" title="Sophia de Mello Breyner Andresen">Sophia de Mello Breyner Andresen</a>).
+</p><p>One historic early aviator, <a href="/wiki/Alberto_Santos-Dumont" title="Alberto Santos-Dumont">Alberto Santos-Dumont</a>, is known to have not only often used an equals sign (=) between his two surnames in place of a hyphen, but also seems to have preferred that practice, to display equal respect for his father's French ethnicity and the Brazilian nationality of his mother.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Continental_Germanic_tradition">Continental Germanic tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=3" title="Edit section: Continental Germanic tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/German_surname" class="mw-redirect" title="German surname">German surname</a></div>
+<p>In <a href="/wiki/Germany" title="Germany">Germany</a> a double surname (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Doppelname</i>) is generally joined with a single hyphen. Other types of double surnames are not accepted by German name law. However, exceptions are made for <a href="/wiki/Immigration" title="Immigration">immigrants</a> and for marriages where the double surname already was the official name of one partner before marriage.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2009)">citation needed</span></a></i>&#93;</sup>  A 1993 law forbids surnames with more than two components.<sup id="cite_ref-time-ger-2009_4-0" class="reference"><a href="#cite_note-time-ger-2009-4">&#91;4&#93;</a></sup> Prior to this, it was permitted for adults (e.g., <a href="/wiki/Simone_Greiner-Petter-Memm" title="Simone Greiner-Petter-Memm">Simone Greiner-Petter-Memm</a> and formerly <a href="/wiki/Elisabeth_Noelle-Neumann" title="Elisabeth Noelle-Neumann">Elisabeth Noelle-Neumann-Maier-Leibniz</a><sup id="cite_ref-time-ger-2009_4-1" class="reference"><a href="#cite_note-time-ger-2009-4">&#91;4&#93;</a></sup>) but their children would not inherit the name.<sup id="cite_ref-time-ger-2009_4-2" class="reference"><a href="#cite_note-time-ger-2009-4">&#91;4&#93;</a></sup> The 1993 ban was upheld by the <a href="/wiki/Federal_Constitutional_Court_of_Germany" class="mw-redirect" title="Federal Constitutional Court of Germany">Constitutional Court</a> in 2009.<sup id="cite_ref-time-ger-2009_4-3" class="reference"><a href="#cite_note-time-ger-2009-4">&#91;4&#93;</a></sup>  The crew members of the famous <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a> <a href="/wiki/Light_cruiser" title="Light cruiser">light cruiser</a> <a href="/wiki/SMS_Emden_(1908)" class="mw-redirect" title="SMS Emden (1908)">SMS&#160;<i>Emden</i></a> were allowed to add the name <i>Emden</i> with a hyphen to their surname as a special honour after World War I.
+</p><p>In <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> double surnames are traditionally written with a hyphen and combine the surnames of a married couple with the husband's surname in first place and the wife's second. This double name is called "alliance name" (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Allianzname</i>). The first name as such, however, is the official family name, which will be inherited by their legitimate children. So, for example, if Werner Stauffacher is married to Gertrud Baumgarten, both can use the name Stauffacher-Baumgarten. Their children Heinrich and Verena, however, bear only the surname Stauffacher. Prominent bearers of an alliance name are <a href="/wiki/Micheline_Calmy-Rey" title="Micheline Calmy-Rey">Micheline Calmy-Rey</a> (former Federal Minister for Foreign Affairs), <a href="/wiki/Eveline_Widmer-Schlumpf" title="Eveline Widmer-Schlumpf">Eveline Widmer-Schlumpf</a> (former Federal Minister for Finance), and <a href="/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann">Johann Schneider-Ammann</a> (Federal Minister for the Economy). Lately, based on feminist pressure, wives have been permitted by law to place their maiden name before the family name. This double name is written without a hyphen and is borne by the wife only. So, in the example above, the wife's name is Gertrud Baumgarten Stauffacher, while her husband's is Werner Stauffacher. Again, the children's names remain Heinrich and Verena Stauffacher.
+</p><p>Doubling of surnames is also practised by the Dutch. An example is the name of Dutch footballer <a href="/wiki/Jan_Vennegoor_of_Hesselink" title="Jan Vennegoor of Hesselink">Jan Vennegoor of Hesselink</a>. According to <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, his name derives from "the 17th century, when two farming families in the Enschede area of the Netherlands intermarried. Both the Vennegoor and Hesselink names carried equal social weight, and so – rather than choose between them – they chose to use both. 'Of' in Dutch translates to 'or', which means that a strict translation of his name reads Jan Vennegoor or Hesselink."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Some of these Dutch surnames also survive in South Africa, for example, the rugby player <a href="/wiki/Rohan_Janse_van_Rensburg" title="Rohan Janse van Rensburg">Rohan Janse van Rensburg</a>'s surname is Janse van Rensburg, not only van Rensburg (which is itself an existing surname).
+</p>
+<h2><span class="mw-headline" id="Scandinavia">Scandinavia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=4" title="Edit section: Scandinavia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Scandinavian_surnames" class="mw-redirect" title="Scandinavian surnames">Scandinavian surnames</a></div>
+<p><a href="/wiki/Denmark" title="Denmark">Denmark</a> has a tradition of double surnames originating in the 19th century. This was a result of two <a href="/wiki/Naming_law" title="Naming law">naming acts</a> obliging commoners to adopt heritable surnames, passed first for the <a href="/wiki/Duchy_of_Schleswig" title="Duchy of Schleswig">Duchy of Schleswig</a> in 1771, and then for <a href="/wiki/Denmark_proper" class="mw-redirect" title="Denmark proper">Denmark proper</a> in 1828. Most people chose their patronymic as their heritable surname, resulting in an overwhelming dominance of a few surnames.
+</p><p>In order to avoid the risk of mistaken identity, many Danes started using their mothers' <a href="/wiki/Maiden_name" class="mw-redirect" title="Maiden name">maiden names</a> as a heritable <a href="/wiki/Middle_name" title="Middle name">middle name</a> (similar to the Russian or <a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Hispanic system</a>), rather than as a second <a href="/wiki/Given_name" title="Given name">given name</a> (as in the <a href="/wiki/English_name" title="English name">Anglo-Saxon system</a>). One such case in point is the fact that three successive <a href="/wiki/Prime_Minister_of_Denmark" title="Prime Minister of Denmark">prime ministers of Denmark</a> all share the same last name, <a href="/wiki/Rasmussen" title="Rasmussen">Rasmussen</a>, and so they are usually referred to by their middle name, viz. <a href="/wiki/Poul_Nyrup_Rasmussen" title="Poul Nyrup Rasmussen">Nyrup</a>, <a href="/wiki/Anders_Fogh_Rasmussen" title="Anders Fogh Rasmussen">Fogh</a> and <a href="/wiki/Lars_L%C3%B8kke_Rasmussen" title="Lars Løkke Rasmussen">Løkke</a>, respectively.
+</p><p>Today, however, the order of the names invariably places the patronymic <i>-sen</i> at the end, regardless of whether that name has been passed down by the father or mother, or adopted through marriage. Unlike in the Russian or Hispanic systems, this surname-style middle name is not considered a proper last name in official documents, unless <a href="/wiki/Hyphenated" class="mw-redirect" title="Hyphenated">hyphenated</a> into one compound name.
+</p>
+<h2><span class="mw-headline" id="Poland">Poland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=5" title="Edit section: Poland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Polish_name" title="Polish name">Polish name</a></div>
+<p>In <a href="/wiki/Poland" title="Poland">Poland</a> a double surname (<a href="/wiki/Polish_language" title="Polish language">Polish</a>: <i lang="pl">nazwisko złożone</i>) is generally joined with a hyphen and by law includes only one hyphen. Polish surnames (<i>nazwisko</i> (N. sg.)), like those in most of Europe, are hereditary and generally <a href="/wiki/Patrilineality" title="Patrilineality">patrilineal</a>, i.e., passed from the father on to his children. A married woman usually adopts her husband's name. However, other combinations are legally possible. The wife may keep her <a href="/wiki/Maiden_name" class="mw-redirect" title="Maiden name">maiden name</a> (<i>nazwisko panieńskie</i>) or add her husband's surname to hers, thus creating a double name (<i>nazwisko złożone</i>). A married man can also adopt his wife's surname, or add it to his. Polish triple-barreled surnames are known to exist; an example is the one borne by <a href="/w/index.php?title=Ludwik_Kos-Rabczewicz-Zubkowski&amp;action=edit&amp;redlink=1" class="new" title="Ludwik Kos-Rabczewicz-Zubkowski (page does not exist)">Ludwik Kos-Rabczewicz-Zubkowski</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://pl.wikipedia.org/wiki/Ludwik_Kos-Rabczewicz-Zubkowski" class="extiw" title="pl:Ludwik Kos-Rabczewicz-Zubkowski">pl</a>&#93;</span>, a university professor and writer, living in Canada.
+</p>
+<h2><span class="mw-headline" id="Russia">Russia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=6" title="Edit section: Russia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Russia, double-barreled surnames are somewhat uncommon, but normal and accepted practice, often associated with some families of note wishing to preserve both of their lineages. Federal law #143-FZ "On Civil State Acts" explicitly allows double-barreled names in its Article 28, but limits such compound surnames to two parts only.
+</p>
+<h2><span class="mw-headline" id="Turkish_tradition">Turkish tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=7" title="Edit section: Turkish tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Turkish tradition offers options to couples after the marriage for the naming conventions. Renewing the national identity card to reflect the naming changes has two options, one is to use man's surname for the newly formed family's surname, the second is to use two surnames for the family noting that one is the bride's maiden name, the latter is the groom's surname. This highlights the equal importance of men and women in Turkish history, by giving legal opportunity to use whichever is preferable for partners.
+</p><p>Another double-barreled naming custom in <a href="/wiki/Turkey" title="Turkey">Turkey</a>, is that the grandfather of a newborn to give the first name, while the father of the newborn issues a middle name which is known as "Göbek Adı" in Turkish.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In other words, "Gobek Adi" is the name that's been given to newborn while his/her umbilical cord is being cut. In the surname section, the tradition is to use the paternal heritage surname. For example; 
+<a href="/wiki/Cahit_S%C4%B1tk%C4%B1_Taranc%C4%B1" title="Cahit Sıtkı Tarancı">Cahit Sıtkı Tarancı</a>, <a href="/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday">Melih Cevdet Anday</a>, <a href="/wiki/Falih_R%C4%B1fk%C4%B1_Atay" title="Falih Rıfkı Atay">Falih Rıfkı Atay</a> and so on.
+</p>
+<h2><span class="mw-headline" id="French-Canadian_tradition">French-Canadian tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=8" title="Edit section: French-Canadian tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Until the late 19th century, some families had a <a href="/wiki/Dit_name" title="Dit name"><i>nom-dit</i></a> tradition. This was a family nickname (literally a "said name"). The origins of the noms-dits were various. Some noms-dits were the war-name of the first settler, while he was a soldier: Hébert dit Jolicœur (<i>Pretty Heart, </i>cf. <i>Braveheart</i>), Thomas dit Tranchemontagne (<i>mountain chopper</i>). Some denoted the place of origin of the first settler: Langevin (<i>Anjou</i>), Barbeau dit Poitevin (<i>Poitou</i>). Others denoted a characteristic of the person or of his dwelling: Lacourse, Lépine, Larivière.
+</p>
+<h2><span class="mw-headline" id="Recent_developments">Recent developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=9" title="Edit section: Recent developments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the late 20th century, increasingly liberal legislation on the inheritance of legal surnames in many Western countries has led to the emergence of various non-traditional or <i>ad hoc</i> coinages of combined surnames.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (July 2015)">clarification needed</span></a></i>&#93;</sup>
+For example, Hispanic American politician <a href="/wiki/Antonio_Villaraigosa" title="Antonio Villaraigosa">Antonio Villar</a> and his wife Corina Raigosa adopted the "blended" surname <i>Villaraigosa</i> upon their marriage in 1987.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In some cases, courts in member states of the <a href="/wiki/European_Union" title="European Union">European Union</a> have refused to register children under the surname given according to a foreign naming tradition.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In <a href="/wiki/France" title="France">France</a> a practice abolished in 2010<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> was to use two consecutive hyphens -- (not the same as a "long hyphen" or <a href="/wiki/Dash" title="Dash">dash</a>, or with a <a href="/wiki/Double_hyphen" title="Double hyphen">double hyphen</a>) to distinguish between recently formed double surnames and ancient hyphenated family names (<a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">nom composé</i>). The use of double surnames is legal but not customary. Children traditionally take on their father's surname (or, more recently, optionally their mother's).
+</p><p>In Canada, especially <a href="/wiki/Quebec" title="Quebec">Quebec</a>, it is common for children born since the 1970s to bear both parents' surnames, with no established rules as to whether the father's or mother's name should come first. (In Quebec, under the provisions of the <a href="/wiki/Civil_Code_of_Quebec" title="Civil Code of Quebec">Civil Code</a> enacted in 1980,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> both spouses must retain <a href="/wiki/Maiden_and_married_names" title="Maiden and married names">their original surnames upon marriage</a>.) This situation was frequent enough that naming laws had to be amended in the early 1990s when those with double surnames began to marry, and wished themselves to give their children double surnames. In such cases, any combination involving at most two elements of the father's or the mother's surname is permitted.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Non-Western_surname_traditions">Non-Western surname traditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=10" title="Edit section: Non-Western surname traditions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Chinese_compound_surname" title="Chinese compound surname">Chinese compound surname</a> is a <a href="/wiki/Chinese_surname" title="Chinese surname">Chinese surname</a> using more than one character. Many of these surnames derive from noble and official titles, professions, place names and other areas, to serve for a purpose. Some are originally non-Han, while others were created by joining two one-character family names. Only a few of these names (e.g. Ouyang, Shangguan, Sima, Situ) survive in modern times. Many clans eventually took on a single-character surname for various reasons. A small minority of Koreans and Vietnamese also have compound surnames.
+In 2007, PRC officials suggested that parents should be encouraged to create two-syllable (two-character)  surnames for  their children by combining their  parents' (one-syllable) surnames; this could make people's names more unique, and "could help solve the problem of widely recurring names".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>In <a href="/wiki/India" title="India">India</a>, double surnames are comparatively common, especially in Bengal, examples including Roy Chaudhury (sometimes written as Chowdhury), Ghosh Dastidar, Das Gupta, Dutta Roy, etc.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2015)">citation needed</span></a></i>&#93;</sup>. In recent years, a few notable married women have been keeping their maiden surnames resulting in a double-barred name such as <a href="/wiki/Arati_Ankalikar-Tikekar" title="Arati Ankalikar-Tikekar">Arati Ankalikar-Tikekar</a>, <a href="/wiki/Padmaja_Phenany_Joglekar" title="Padmaja Phenany Joglekar">Padmaja Phenany Joglekar</a>.
+</p><p>The <a href="/wiki/Filipino_name" title="Filipino name">Filipino naming tradition</a> is derived from the Hispanic system, but was influenced by the American (Anglo-Saxon) naming tradition when the Philippines became  a <a href="/wiki/History_of_the_Philippines_(1898%E2%80%931946)" title="History of the Philippines (1898–1946)">United States colony</a> in 1901.
+A child customarily will carry the mother's maiden name as his middle name and carry the father's surname. When the female marries, she keeps her maiden surname and adds the husband's surname, but does not typically hyphenate it. So, when Maria Santos Aguon marries José Lujan Castro, her name becomes Maria Aguon Castro and their children will typically carry the middle name Aguon, and the surname Castro.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>In <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>, a double barrelled surname is adopted when an aristocratic woman marries a lower ranked man. It also occurs when a ruling family adopts the forename of their patriarch as part of their surname in order to distinguish themselves from others that might share their surname. An example of the former is that of the Vaughan-Richards family, a branch of the family of the American emancipated slave <a href="/wiki/Scipio_Vaughan" title="Scipio Vaughan">Scipio Vaughan</a>, who maintain their mother's last name as well as their father's. An example of the latter is that of the royal family of King <a href="/wiki/Adeniji_Adele" title="Adeniji Adele">Adeniji Adele</a> of Lagos, who are distinguished from their numerous Adele cousins by the use of the double barrelled name <i>Adeniji-Adele</i>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dual_naming" title="Dual naming">Dual naming</a></li>
+<li><a href="/wiki/Double_name" title="Double name">Double name</a></li>
+<li><a href="/wiki/Name_blending" title="Name blending">Name blending</a></li>
+<li><a href="/wiki/List_of_double_placenames" title="List of double placenames">List of double placenames</a></li>
+<li><a href="/wiki/Pleonasm#Bilingual_tautological_expressions" title="Pleonasm">Bilingual tautological names</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The term "double-barrelled surname" was in origin used for British double names indicative of (partially) aristocratic background; so in <a href="/wiki/Thomas_Innes_of_Learney" title="Thomas Innes of Learney">Thomas Innes of Learney</a>, <i>The Clans, Septs and Regiments of the Scottish Highlands</i> (1970), p. 186.
+Earlier usage prefers "double-barrelled name" in reference to the British double surnames, the more specific "double-barrelled surname" is a <a href="/wiki/Recharacterization" class="mw-redirect" title="Recharacterization">recharacterization</a> after the recent tendency to use "double-barrelled name" for the fashion of hyphenated given names.
+The term "double-barrelled (sur)name" appears to have been coined in the <a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a>, originally with a sarcastic undertone implying pomposity; e.g.: 
+<ul><li>"It is looked on as a public blessing, a boon to the general good-humor, when a statesman is endowed with a double-barreled name. It brings on a perpetual feu de joie of squibs, and makes him so much the more agreeable to everybody but himself." <i>Lippincott's Monthly Magazine, a Popular Journal of General Literature</i>, Volume 18, 1876, p. 385.</li>
+<li>"The hero, who was a prince, had a sort of double-barreled name, which would defy all sorts at pronunciation; and so had the heroine. They were names which, no doubt, would be instrumental in selling any fever and ague mixture should they be affixed to it." <i>Puck</i>, Puck Publishing Company, 1878, p. 21.</li>
+<li>"an extravagant superfluity of new-coined phraseology and technical terms, which every distinguished person's illness elicits from some fashionable physician with a double-barreled surname and none denoting Christianity." Robert Joshua Leslie, John Leslie (bishop of Clogher), <i>The life and times of ... John Leslie, bishop of the Isles, and of Raphoe and Clogher</i>, 1885, p. 157.</li></ul>
+But it is now also used more generally of any double surname (an example for this is 
+Azoulai, <i>The Question of Competence in the European Union</i> (2014:<a rel="nofollow" class="external text" href="https://books.google.com/books?id=lzHLAgAAQBAJ&amp;pg=PA180">180</a>) using "double-barrelled" to refer to a Danish double surname.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Los Angeles Times Magazine</i>, November 1999</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gray, Carroll F. (November 2006). "The 1906 Santos=Dumont No. 14bis". <i>World War I Aeroplanes</i>. <b>194</b>: 4.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=World+War+I+Aeroplanes&amp;rft.atitle=The+1906+Santos%3DDumont+No.+14bis&amp;rft.volume=194&amp;rft.pages=4&amp;rft.date=2006-11&amp;rft.aulast=Gray&amp;rft.aufirst=Carroll+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-time-ger-2009-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-time-ger-2009_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-time-ger-2009_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-time-ger-2009_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-time-ger-2009_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Kirchner, Stephanie (6 May 2009). <a rel="nofollow" class="external text" href="http://www.time.com/time/world/article/0,8599,1896443,00.html">"German Court Upholds Ban on Extra-Long Names"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Time&amp;rft.atitle=German+Court+Upholds+Ban+on+Extra-Long+Names&amp;rft.date=2009-05-06&amp;rft.aulast=Kirchner&amp;rft.aufirst=Stephanie&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fworld%2Farticle%2F0%2C8599%2C1896443%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theguardian.com/football/2004/aug/04/theknowledge.sport">"Why is Jan Vennegoor of Hesselink so named?"</a>. <a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a>. 4 August 2004.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Why+is+Jan+Vennegoor+of+Hesselink+so+named%3F&amp;rft.date=2004-08-04&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ffootball%2F2004%2Faug%2F04%2Ftheknowledge.sport&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Paolo Bandini (30 August 2006). <a rel="nofollow" class="external text" href="http://football.guardian.co.uk/theknowledge/story/0,,1860441,00.html">"Lost and found in the international wilderness"</a>. <i>The Guardian</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Lost+and+found+in+the+international+wilderness&amp;rft.date=2006-08-30&amp;rft.au=Paolo+Bandini&amp;rft_id=http%3A%2F%2Ffootball.guardian.co.uk%2Ftheknowledge%2Fstory%2F0%2C%2C1860441%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Turkish Language Institute (2017-03-20). <a rel="nofollow" class="external text" href="http://www.tdk.gov.tr/">"Göbek Adı"</a>. TDK.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=G%C3%B6bek+Ad%C4%B1&amp;rft.pub=TDK&amp;rft.date=2017-03-20&amp;rft.au=Turkish+Language+Institute&amp;rft_id=http%3A%2F%2Fwww.tdk.gov.tr%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="refAboutDotCom" class="citation web">Sheri &amp; Bob Stritof (2007-07-26). <a rel="nofollow" class="external text" href="http://marriage.about.com/od/politics/p/villaraigosa.htm">"Corina Raigosa and Antonio Villaraigosa Marriage Profile"</a>. Marriage.about.com. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090607225044/http://marriage.about.com/od/politics/p/villaraigosa.htm">Archived</a> from the original on 7 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Corina+Raigosa+and+Antonio+Villaraigosa+Marriage+Profile&amp;rft.pub=Marriage.about.com&amp;rft.date=2007-07-26&amp;rft.au=Sheri+%26+Bob+Stritof&amp;rft_id=http%3A%2F%2Fmarriage.about.com%2Fod%2Fpolitics%2Fp%2Fvillaraigosa.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+"For instance, in <i>Garcia Avello</i>, a case in which Belgium refused to register children of dual nationality with the surname of both parents following the Spanish tradition [...] in <i>Grunkin and Paul</i> [... a German court] refused to recognize a child's double-barrelled surname as determined and registered in Denmark, where he lived, because the child was a German national."
+Loïc Azoulai, <i>The Question of Competence in the European Union</i>, OUP Oxford, 2014, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lzHLAgAAQBAJ&amp;pg=PA180">p. 180</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Lichfield, John (8 January 2010). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/world/europe/doublehyphen-surname-law-gets-both-barrels-1861421.html">"Double-hyphen surname law gets both barrels"</a>. <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Double-hyphen+surname+law+gets+both+barrels&amp;rft.date=2010-01-08&amp;rft.aulast=Lichfield&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Feurope%2Fdoublehyphen-surname-law-gets-both-barrels-1861421.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADouble-barrelled+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.justice.gouv.qc.ca/english/ministere/dossiers/code/code-a.htm">A Short History of the Civil Code</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051218072812/http://justice.gouv.qc.ca/english/ministere/dossiers/code/code-a.htm">Archived</a> 2005-12-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, Government of Quebec</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ccq.lexum.com/ccq/en#!fragment/sec51/KGhhc2g6KGNodW5rxIVhbsSHb3JUZXh0OnNlYzUxKSxsZWZ0UMSNZU5vdGVJZDonJyxuxKZlc1F1ZXJ5xKvErXNjcm9sbEPEiMSKOiFuLMSXYXLEh8SzxLXEt8SsxYZlxYjEh1PEkHRCxLdSRUxFVkFOQ0UsdGFiOnRvYykp">Section 51 of the Civil Code of Quebec</a>, in <a href="/wiki/LexUM" title="LexUM">LexUM</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.xinhuanet.com/english/2007-12/12/content_7234658.htm">Name game: most Chinese use 3 characters, some use 10 or more</a>, Xinhua, 2007-12-12.</span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a class="mw-selflink selflink">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20190919211645
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.632 seconds
+Real time usage: 0.848 seconds
+Preprocessor visited node count: 1813/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68283/2097152 bytes
+Template argument size: 2870/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 25551/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.397/10.000 seconds
+Lua memory usage: 13.05 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  729.468      1 -total
+ 27.82%  202.965      2 Template:Lang-de
+ 24.99%  182.321      1 Template:Reflist
+ 13.68%   99.758      1 Template:More_citations_needed
+ 12.97%   94.610      1 Template:Cite_journal
+ 12.75%   92.995      1 Template:Ambox
+ 10.12%   73.814      4 Template:Citation_needed
+  8.71%   63.510      4 Template:Fix
+  7.75%   56.533      1 Template:Find_sources_mainspace
+  5.22%   38.052      5 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:771980-0!canonical and timestamp 20190919211644 and revision id 916463131
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Double-barrelled_name&amp;oldid=916463131">https://en.wikipedia.org/w/index.php?title=Double-barrelled_name&amp;oldid=916463131</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surname" title="Category:Surname">Surname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2009" title="Category:Articles needing additional references from May 2009">Articles needing additional references from May 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2018" title="Category:Articles with unsourced statements from October 2018">Articles with unsourced statements from October 2018</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">Articles with unsourced statements from May 2009</a></li><li><a href="/wiki/Category:Articles_containing_Polish-language_text" title="Category:Articles containing Polish-language text">Articles containing Polish-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2015" title="Category:Wikipedia articles needing clarification from July 2015">Wikipedia articles needing clarification from July 2015</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2015" title="Category:Articles with unsourced statements from July 2015">Articles with unsourced statements from July 2015</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Double-barrelled+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Double-barrelled+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Double-barrelled_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Double-barrelled_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Double-barrelled_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Double-barrelled_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Double-barrelled_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Double-barrelled_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Double-barrelled_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Double-barrelled_name&amp;oldid=916463131" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Double-barrelled_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29042997" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Double-barrelled_name&amp;id=916463131" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Compound_surnames" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Double-barrelled+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Double-barrelled+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Double-barrelled_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Doppelname_(Nachname)" title="Doppelname (Nachname) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%96%91%EC%84%B1_%EC%93%B0%EA%B8%B0" title="양성 쓰기 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kaksoisnimi" title="Kaksoisnimi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Dubbelnamn_(efternamn)" title="Dubbelnamn (efternamn) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%99%E5%A7%93" title="雙姓 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q29042997#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 01:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Double-barrelled_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.632","walltime":"0.848","ppvisitednodes":{"value":1813,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68283,"limit":2097152},"templateargumentsize":{"value":2870,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":25551,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  729.468      1 -total"," 27.82%  202.965      2 Template:Lang-de"," 24.99%  182.321      1 Template:Reflist"," 13.68%   99.758      1 Template:More_citations_needed"," 12.97%   94.610      1 Template:Cite_journal"," 12.75%   92.995      1 Template:Ambox"," 10.12%   73.814      4 Template:Citation_needed","  8.71%   63.510      4 Template:Fix","  7.75%   56.533      1 Template:Find_sources_mainspace","  5.22%   38.052      5 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.397","limit":"10.000"},"limitreport-memusage":{"value":13680504,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190919211645","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Double-barrelled name","url":"https:\/\/en.wikipedia.org\/wiki\/Double-barrelled_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q29042997","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q29042997","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-02T14:32:22Z","dateModified":"2019-09-19T01:34:59Z","headline":"family name that is a combination of two other family names"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

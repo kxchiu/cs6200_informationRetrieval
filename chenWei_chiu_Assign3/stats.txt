@@ -1,0 +1,5 @@
+Total file size: 27597852 bytes
+Total tokens: 5591410
+Unique tokens: 203186
+Total index size: 25069426 bytes
+Average index size: 0.908 bytes
