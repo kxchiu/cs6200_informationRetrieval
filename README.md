@@ -1,4 +1,4 @@
-# cs5100_foundationsOfAI
+# cs6200_informationRetrieval
 This is a repository for my individual projects from the course CS 6200 Information Retrieval at Northeastern University--Seattle. Throughout the course, I implemented a web search engine through applying information retrieval theories using Python and from ground up without BeautifulSoup.
 
 ## Assignment 1
